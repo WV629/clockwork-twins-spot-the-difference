@@ -1,8 +1,8 @@
 # clockwork-twins-spot-the-difference
 
 [![make.fun · best-spot-the-difference-game-20261121-0451](https://make.fun/badge/best-spot-the-difference-game-20261121-0451.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
-[![rank](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/WV629/clockwork-twins-spot-the-difference-game-20261121-0451/rank.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
-[![reward](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/WV629/clockwork-twins-spot-the-difference-game-20261121-0451/reward.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+[![rank](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/WV629/clockwork-twins-spot-the-difference/rank.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+[![reward](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/WV629/clockwork-twins-spot-the-difference/reward.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
 
 Clockwork Twins is a spot-the-difference game: three hand-drawn scenes (a clockmaker's attic, a starlight bakery, a botanist's greenhouse), seven hidden changes hiding in each, played with mouse and keyboard in a desktop browser. Found differences get a gold ring on both pictures, wrong clicks cost five seconds, hints pulse the spot you missed, and the clock is always ticking.
 
